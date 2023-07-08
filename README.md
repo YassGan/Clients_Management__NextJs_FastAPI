@@ -24,18 +24,17 @@ The Clients Management System is a web application that allows useful tools to m
 To showcase the application's features, a video demonstration is included below. Hosting a website can be costly, but this video offers an efficient and cost-effective way to explore its functionalities.
 
 ## Installation
-## Installation
 
 To run the Clients Management System locally, follow these steps:
 
-#### - Client session:
-    The website includes a client session, intended for the school's clients, who can access a personalized 
-    space where they can view their child's grades, absence history, and payment status.
+#### - 1 Clone the repository:
+     git clone https://github.com/YOUR_USERNAME/Clients_Management__NextJs_FastAPI.git`
 
 
-#### - Client session:
-    The website includes a client session, intended for the school's clients, who can access a personalized 
-    space where they can view their child's grades, absence history, and payment status.
+
+#### - 2 Navigate to the project directory::
+      cd Clients_Management__NextJs_FastAPI
+
 
 
 
