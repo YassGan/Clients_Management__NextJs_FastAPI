@@ -27,12 +27,12 @@ To showcase the application's features, a video demonstration is included below.
 
 To run the Clients Management System locally, follow these steps:
 
-#### - 1 Clone the repository:
+##### - 1 Clone the repository:
      git clone https://github.com/YOUR_USERNAME/Clients_Management__NextJs_FastAPI.git`
 
 
 
-#### - 2 Navigate to the project directory::
+##### - 2 Navigate to the project directory::
       cd Clients_Management__NextJs_FastAPI
 
 
