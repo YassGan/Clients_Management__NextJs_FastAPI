@@ -64,6 +64,22 @@ we have a database.py file that contains the database link, this link should be 
      postgresql://UserName:Password@localhost/databaseName
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### - 5 Run the backend server
 ##### In the backend directory
 uvicorn main:app --reload
