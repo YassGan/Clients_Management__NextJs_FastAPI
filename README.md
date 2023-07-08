@@ -62,6 +62,15 @@ we have a database.py file that contains the database link, this link should be 
 
 ##### - this link should be modified like that 
      postgresql://UserName:Password@localhost/databaseName
+
+
+##### - 5 Run the backend server
+# In the backend directory
+uvicorn main:app --reload
+
+##### - 6 Run the frontend server
+# In the frontend directory
+npm run dev
      
 
 
