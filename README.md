@@ -22,6 +22,9 @@ The Clients Management System is a web application that allows useful tools to m
 
 ## Live Demo
 To showcase the application's features, a video demonstration is included below. Hosting a website can be costly, but this video offers an efficient and cost-effective way to explore its functionalities.
+     here is the link of the video
+     https://drive.google.com/file/d/1kZorr4GsCknWsPMx15K0sPA3seKpwIaX/view?usp=sharing
+
 
 ## Installation
 
@@ -62,19 +65,6 @@ we have a database.py file that contains the database link, this link should be 
 
 ##### - this link should be modified like that 
      postgresql://UserName:Password@localhost/databaseName
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
