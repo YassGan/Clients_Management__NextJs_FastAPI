@@ -65,11 +65,11 @@ we have a database.py file that contains the database link, this link should be 
 
 
 ##### - 5 Run the backend server
-# In the backend directory
+##### In the backend directory
 uvicorn main:app --reload
 
 ##### - 6 Run the frontend server
-# In the frontend directory
+##### In the frontend directory
 npm run dev
      
 
