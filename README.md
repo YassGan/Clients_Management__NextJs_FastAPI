@@ -27,17 +27,25 @@ To showcase the application's features, a video demonstration is included below.
 
 To run the Clients Management System locally, follow these steps:
 
-##### - 1 Clone the repository:
+
+##### - 1 Install the database file in pgAdmin
+here is the link of the database file, you should download it and integrate it in your pgAdmin
+     https://drive.google.com/file/d/1kZorr4GsCknWsPMx15K0sPA3seKpwIaX/view?usp=sharing
+
+
+
+
+##### - 2 Clone the repository:
      git clone https://github.com/YOUR_USERNAME/Clients_Management__NextJs_FastAPI.git`
 
 
 
-##### - 2 Navigate to the project directory:
+##### - 3 Navigate to the project directory:
       cd Clients_Management__NextJs_FastAPI
 
 
 
-##### - 3 Change the database link :
+##### - 4 Change the database link :
 we have a database.py file that contains the database link, this link should be modified, here is the location of the database file: backend\DataBase\database.py
      from sqlalchemy.orm import declarative_base
      from sqlalchemy import create_engine
