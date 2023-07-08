@@ -22,3 +22,14 @@ The Clients Management System is a web application that allows useful tools to m
 
 ## Live Demo
 To showcase the application's features, a video demonstration is included below. Hosting a website can be costly, but this video offers an efficient and cost-effective way to explore its functionalities.
+
+## Installation
+## Installation
+
+To run the Clients Management System locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Clients_Management_System.git
+
