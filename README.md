@@ -28,14 +28,14 @@ To showcase the application's features, a video demonstration is included below.
 
 To run the Clients Management System locally, follow these steps:
 
-1. Clone the repository:
- ```
-      git clone https://github.com/YOUR_USERNAME/Clients_Management__NextJs_FastAPI.git`
+#### - Client session:
+    The website includes a client session, intended for the school's clients, who can access a personalized 
+    space where they can view their child's grades, absence history, and payment status.
 
 
-3. Navigate to the project directory:
-  ```bash
-     cd Clients_Management__NextJs_FastAPI
+#### - Client session:
+    The website includes a client session, intended for the school's clients, who can access a personalized 
+    space where they can view their child's grades, absence history, and payment status.
 
 
 
