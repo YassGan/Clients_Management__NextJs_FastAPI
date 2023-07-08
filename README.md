@@ -50,6 +50,9 @@ we have a database.py file that contains the database link, this link should be 
      Base=declarative_base()
      
      SessionLocal=sessionmaker(bind=engine)
+
+this link should be modified like that 
+     postgresql://UserName:Password@localhost/databaseName
      
 
 
