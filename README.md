@@ -32,10 +32,25 @@ To run the Clients Management System locally, follow these steps:
 
 
 
-##### - 2 Navigate to the project directory::
+##### - 2 Navigate to the project directory:
       cd Clients_Management__NextJs_FastAPI
 
 
+
+##### - 3 Change the database link :
+we have a database.py file that contains the database link, this link should be modified, here is the location of the database file: backend\DataBase\database.py
+     from sqlalchemy.orm import declarative_base
+     from sqlalchemy import create_engine
+     from sqlalchemy.orm import sessionmaker
+     
+     engine=create_engine("postgresql://postgres:yassine123@localhost/Article_DB",
+         echo=True
+     )
+     
+     Base=declarative_base()
+     
+     SessionLocal=sessionmaker(bind=engine)
+     
 
 
 
